@@ -1,4 +1,4 @@
-# Data and Code for Temporal Motifs for Financial Networks: A Study on Mercari, JPMC, and Venmo Platforms
+# Data and Code for "Temporal Motifs for Financial Networks: A Study on Mercari, JPMC, and Venmo Platforms"
 
 - `Venmo` directory contains the Venmo data used in the paper, manually curated labels for vendors, and the experiments for Venmo data.
 - `Fraud_classifiers` directory contains the codes for all the remaining experiments.
